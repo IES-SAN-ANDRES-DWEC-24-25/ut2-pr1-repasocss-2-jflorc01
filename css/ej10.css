@@ -1,0 +1,18 @@
+p::first-letter{
+    font-size: xxx-large;
+    text-align: left;
+    color: black;
+}
+
+p::first-line{
+    color: red;
+}
+
+p::selection{
+    color: red;
+    background-color: yellow;
+}
+
+h2::after{
+    content: url(../img/smile.jpeg);
+}
