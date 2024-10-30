@@ -1,0 +1,11 @@
+#wait{
+    cursor: wait;
+}
+
+#grab{
+    cursor: grab;
+}
+
+#help {
+    cursor: help;
+}
